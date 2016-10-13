@@ -7,7 +7,6 @@ import android.util.Log;
 import android.view.animation.AlphaAnimation;
 import android.widget.RelativeLayout;
 
-import cn.ucai.fulicenter.MainActivity;
 import cn.ucai.fulicenter.R;
 
 public class SplashActivity extends AppCompatActivity {
